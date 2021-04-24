@@ -1,1 +1,1 @@
-
+var commands = [{name: "", description: ""}, ];
