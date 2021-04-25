@@ -10,3 +10,4 @@ var commands = [
   {name: "", description: ""}, 
   {name: "", description: ""},
 ];
+commands.sort();
